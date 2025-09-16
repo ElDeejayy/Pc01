@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a9b5e8db6be4d94ab29e1d1d23c95a7, type: 3}
+  m_Name: SpawnerData
+  m_EditorClassIdentifier: Assembly-CSharp::SpawnerData
+  prefab: {fileID: 6360412845610466151, guid: 48605594e1a82c44aa3f57620c8fed0e, type: 3}
+  cantidad: 7
+  rotacion:
+    value:
+      x: 0
+      y: 0
+      z: 0
+      w: 0
+  maximo: {x: 15, y: 15, z: 15}
+  minimo: {x: 1, y: 1, z: 1}
